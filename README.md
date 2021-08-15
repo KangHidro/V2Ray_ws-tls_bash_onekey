@@ -4,6 +4,8 @@ su → bash <(curl -L -s https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls
 
 Steps: https://www.youtube.com/watch?v=_HrO3d8OSZk
 
+Using: Windows: https://github.com/2dust/v2rayN | iOS: ShadowRocket ($2.99) | Android: NapsternetV
+
 ## V2Ray 基于 Nginx 的 vmess+ws+tls 一键安装脚本
 
 > 感谢 JetBrains 提供的非商业开源软件开发授权

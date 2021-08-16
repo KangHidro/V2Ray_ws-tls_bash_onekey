@@ -2,7 +2,9 @@
 
 su → bash <(curl -L -s https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh) | tee v2ray_ins.log
 
-Steps: https://www.youtube.com/watch?v=_HrO3d8OSZk
+Steps: https://www.youtube.com/watch?v=ekgao7-0Raw
+
+Select 1 [安装 V2Ray (Nginx+ws+tls)] → Y → Enter your domain → Enter port 443 → Enter alter port, Eg 80 → Wait so long → 1 [V2RayNG/V2RayN] → 1 [TLS1.1 TLS1.2 and TLS1.3] → Wait for done
 
 Using: Windows: https://github.com/2dust/v2rayN | iOS: ShadowRocket ($2.99) | Android: NapsternetV
 
